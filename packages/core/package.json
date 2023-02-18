@@ -1,5 +1,11 @@
 {
     "name": "@chttp/core",
     "description": "CHTTP核心库",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "scripts": {
+        "test": "jest"
+    },
+    "jest": {
+        "preset": "ts-jest"
+    }
 }

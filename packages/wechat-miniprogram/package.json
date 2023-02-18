@@ -1,5 +1,11 @@
 {
     "name": "@chttp/wechat-miniprogram",
     "description": "CHTTP 微信小程序库",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "scripts": {
+        "test": "jest"
+    },
+    "jest": {
+        "preset": "ts-jest"
+    }
 }
