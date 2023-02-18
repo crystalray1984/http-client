@@ -1,0 +1,9 @@
+{
+    "name": "crystalray-http-client",
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "packages/*"
+        ]
+    }
+}
